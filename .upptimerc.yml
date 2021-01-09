@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Charlie's Web Status
   introTitle: "Website Monitoring for websites by Charlie Seaman"
-  introMessage: This is a colective status page for website I run or help to maintain. Including: [my personal site](https://casman.co.uk), [1st &2nd Horley Scouts](https://12hs.org.uk), [Baked Bean](https://baked-bean.co.uk), [6xTASK](https://6xtask.co.uk) and [Workshop Mayhem](https://www.workshopmayhem.co.uk).
+  introMessage: This is a colective status page for website I run or help to maintain. Including [my personal site](https://casman.co.uk), [1st &2nd Horley Scouts](https://12hs.org.uk), [Baked Bean](https://baked-bean.co.uk), [6xTASK](https://6xtask.co.uk) and [Workshop Mayhem](https://www.workshopmayhem.co.uk).
   navbar:
     - title: Status
       href: https://casman300.github.io/my_website_upptimes
