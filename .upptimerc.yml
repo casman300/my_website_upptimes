@@ -32,7 +32,7 @@ status-website:
       href: https://casman300.github.io/my_website_upptimes
     - title: My GitHub
       href: https://github.com/$OWNER/$REPO
-     - title: My Site
+    - title: My Site
       href: https://casman.co.uk
 
 # Upptime also supports notifications, assigning issues, and more
