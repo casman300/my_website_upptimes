@@ -4,10 +4,10 @@
     "url": "https://casman.co.uk",
     "icon": "https://favicons.githubusercontent.com/casman.co.uk",
     "slug": "my-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 647,
@@ -15,17 +15,19 @@
     "timeWeek": 563,
     "timeMonth": 647,
     "timeYear": 647,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 2
+    }
   },
   {
     "name": "Scouts Main Site",
     "url": "https://12hs.org.uk",
     "icon": "https://favicons.githubusercontent.com/12hs.org.uk",
     "slug": "scouts-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
@@ -33,17 +35,19 @@
     "timeWeek": 630,
     "timeMonth": 678,
     "timeYear": 678,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 1
+    }
   },
   {
     "name": "Baked Bean",
     "url": "https://baked-bean.co.uk",
     "icon": "https://favicons.githubusercontent.com/baked-bean.co.uk",
     "slug": "baked-bean",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 542,
@@ -51,16 +55,18 @@
     "timeWeek": 570,
     "timeMonth": 542,
     "timeYear": 542,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 1
+    }
   },
   {
     "name": "6xTask",
     "url": "https://6xtask.co.uk",
     "icon": "https://6xtask.co.uk/ASSETS/favicon/favicon.ico",
     "slug": "6x-task",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +75,9 @@
     "timeWeek": 650,
     "timeMonth": 633,
     "timeYear": 633,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "Workshop Mayhem",
