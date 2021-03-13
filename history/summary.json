@@ -71,12 +71,12 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.50%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.66%",
     "time": 1475,
     "timeDay": 676,
-    "timeWeek": 3628,
+    "timeWeek": 650,
     "timeMonth": 3076,
     "timeYear": 1475,
     "dailyMinutesDown": {
@@ -90,7 +90,7 @@
     "url": "https://www.workshopmayhem.co.uk",
     "icon": "https://www.workshopmayhem.co.uk/wp-content/uploads/2019/09/cropped-WM-Logo-180x180.png",
     "slug": "workshop-mayhem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -102,6 +102,7 @@
     "timeMonth": 1214,
     "timeYear": 1316,
     "dailyMinutesDown": {
+      "2021-03-13": 0,
       "2021-01-30": 19,
       "2021-01-27": 83
     }
