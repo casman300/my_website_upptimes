@@ -4,9 +4,9 @@
     "url": "https://casman.co.uk",
     "icon": "https://favicons.githubusercontent.com/casman.co.uk",
     "slug": "my-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 627,
     "timeYear": 613,
     "dailyMinutesDown": {
+      "2021-04-22": 0,
       "2021-03-09": 39,
       "2021-03-05": 22,
       "2021-02-05": 15
@@ -26,9 +27,9 @@
     "url": "https://12hs.org.uk",
     "icon": "https://favicons.githubusercontent.com/12hs.org.uk",
     "slug": "scouts-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -38,6 +39,7 @@
     "timeMonth": 846,
     "timeYear": 758,
     "dailyMinutesDown": {
+      "2021-04-22": 0,
       "2021-03-05": 22
     }
   },
@@ -46,9 +48,9 @@
     "url": "https://baked-bean.co.uk",
     "icon": "https://favicons.githubusercontent.com/baked-bean.co.uk",
     "slug": "baked-bean",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -58,6 +60,7 @@
     "timeMonth": 689,
     "timeYear": 638,
     "dailyMinutesDown": {
+      "2021-04-22": 0,
       "2021-03-09": 21,
       "2021-03-05": 22,
       "2021-02-09": 16
@@ -68,9 +71,9 @@
     "url": "https://6xtask.co.uk",
     "icon": "https://6xtask.co.uk/ASSETS/favicon/favicon.ico",
     "slug": "6x-task",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
@@ -80,6 +83,7 @@
     "timeMonth": 1201,
     "timeYear": 1290,
     "dailyMinutesDown": {
+      "2021-04-22": 0,
       "2021-03-15": 27,
       "2021-03-09": 21,
       "2021-03-06": 231,
