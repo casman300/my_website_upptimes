@@ -104,17 +104,17 @@
     "url": "https://baked-bean.co.uk",
     "icon": "https://favicons.githubusercontent.com/baked-bean.co.uk",
     "slug": "baked-bean",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "59.86%",
-    "uptimeWeek": "60.59%",
-    "uptimeMonth": "90.93%",
-    "uptimeYear": "99.24%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "61.08%",
+    "uptimeWeek": "60.77%",
+    "uptimeMonth": "90.97%",
+    "uptimeYear": "99.25%",
     "time": 714,
-    "timeDay": 475,
-    "timeWeek": 520,
+    "timeDay": 465,
+    "timeWeek": 519,
     "timeMonth": 553,
-    "timeYear": 719,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2022-05-12": 169,
       "2022-05-11": 550,
@@ -122,7 +122,7 @@
       "2022-05-09": 783,
       "2022-05-08": 574,
       "2022-05-07": 826,
-      "2022-05-06": 376
+      "2022-05-06": 357
     }
   },
   {
