@@ -14,7 +14,7 @@
     "timeDay": 1038,
     "timeWeek": 1022,
     "timeMonth": 891,
-    "timeYear": 1063,
+    "timeYear": 1064,
     "dailyMinutesDown": {
       "2022-02-28": 18,
       "2021-09-05": 1231,
@@ -102,14 +102,14 @@
     "url": "https://baked-bean.co.uk",
     "icon": "https://favicons.githubusercontent.com/baked-bean.co.uk",
     "slug": "baked-bean",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "48.54%",
-    "uptimeWeek": "57.74%",
-    "uptimeMonth": "90.28%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "50.16%",
+    "uptimeWeek": "57.93%",
+    "uptimeMonth": "90.32%",
     "uptimeYear": "99.19%",
     "time": 701,
-    "timeDay": 463,
+    "timeDay": 455,
     "timeWeek": 516,
     "timeMonth": 543,
     "timeYear": 704,
@@ -120,7 +120,7 @@
       "2022-05-10": 692,
       "2022-05-09": 783,
       "2022-05-08": 574,
-      "2022-05-07": 566
+      "2022-05-07": 547
     }
   },
   {
@@ -138,7 +138,7 @@
     "timeDay": 909,
     "timeWeek": 794,
     "timeMonth": 1295,
-    "timeYear": 1165,
+    "timeYear": 1166,
     "dailyMinutesDown": {
       "2022-02-16": 20,
       "2022-01-22": 23,
