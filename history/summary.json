@@ -139,7 +139,7 @@
     "slug": "baked-bean",
     "status": "up",
     "uptime": "89.86%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "4.41%",
     "uptimeWeek": "71.43%",
     "uptimeMonth": "83.56%",
     "uptimeYear": "82.74%",
@@ -147,7 +147,7 @@
     "timeDay": 1010,
     "timeWeek": 606,
     "timeMonth": 1022,
-    "timeYear": 576,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2022-09-22": 1381,
       "2022-09-21": 60,
