@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/casman.co.uk.ico",
     "slug": "my-homepage",
     "status": "up",
-    "uptime": "90.92%",
+    "uptime": "90.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.87%",
-    "time": 830,
-    "timeDay": 1336,
-    "timeWeek": 1231,
-    "timeMonth": 1046,
-    "timeYear": 849,
+    "uptimeYear": "90.15%",
+    "time": 831,
+    "timeDay": 1272,
+    "timeWeek": 1221,
+    "timeMonth": 1055,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2022-08-01": 1381,
       "2022-07-31": 1440,
@@ -50,8 +50,7 @@
       "2022-07-01": 1440,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
-      "2022-06-28": 1440,
-      "2022-06-27": 1440
+      "2022-06-28": 1440
     }
   },
   {
@@ -64,12 +63,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.63%",
-    "time": 877,
-    "timeDay": 1473,
-    "timeWeek": 1473,
-    "timeMonth": 1227,
-    "timeYear": 900,
+    "uptimeYear": "95.90%",
+    "time": 876,
+    "timeDay": 1365,
+    "timeWeek": 1387,
+    "timeMonth": 1251,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2022-07-11": 1381,
       "2022-07-10": 1440,
@@ -84,8 +83,7 @@
       "2022-07-01": 1440,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
-      "2022-06-28": 1440,
-      "2022-06-27": 1440
+      "2022-06-28": 1440
     }
   },
   {
@@ -94,16 +92,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/baked-bean.co.uk.ico",
     "slug": "baked-bean",
     "status": "up",
-    "uptime": "90.34%",
+    "uptime": "90.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.71%",
-    "uptimeYear": "83.57%",
-    "time": 688,
-    "timeDay": 1357,
-    "timeWeek": 1343,
-    "timeMonth": 1367,
-    "timeYear": 763,
+    "uptimeYear": "83.85%",
+    "time": 689,
+    "timeDay": 1315,
+    "timeWeek": 1310,
+    "timeMonth": 1391,
+    "timeYear": 765,
     "dailyMinutesDown": {
       "2023-06-07": 1381,
       "2023-06-06": 59,
@@ -189,8 +187,7 @@
       "2022-07-01": 1440,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
-      "2022-06-28": 1440,
-      "2022-06-27": 1440
+      "2022-06-28": 1440
     }
   },
   {
@@ -199,16 +196,16 @@
     "icon": "https://6xtask.co.uk/ASSETS/favicon/favicon.ico",
     "slug": "6x-task",
     "status": "up",
-    "uptime": "93.54%",
+    "uptime": "93.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.71%",
-    "uptimeYear": "89.60%",
-    "time": 780,
-    "timeDay": 1384,
-    "timeWeek": 1202,
-    "timeMonth": 918,
-    "timeYear": 720,
+    "uptimeYear": "89.87%",
+    "time": 782,
+    "timeDay": 1273,
+    "timeWeek": 1203,
+    "timeMonth": 943,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2023-06-07": 1381,
       "2023-06-06": 59,
@@ -246,8 +243,7 @@
       "2022-07-01": 1440,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
-      "2022-06-28": 1440,
-      "2022-06-27": 1440
+      "2022-06-28": 1440
     }
   },
   {
@@ -261,11 +257,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1870,
-    "timeDay": 320,
-    "timeWeek": 446,
-    "timeMonth": 1951,
-    "timeYear": 2041,
+    "time": 1868,
+    "timeDay": 445,
+    "timeWeek": 468,
+    "timeMonth": 1952,
+    "timeYear": 2039,
     "dailyMinutesDown": {}
   }
 ]
