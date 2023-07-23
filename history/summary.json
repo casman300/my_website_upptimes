@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/casman.co.uk.ico",
     "slug": "my-homepage",
     "status": "up",
-    "uptime": "91.18%",
+    "uptime": "91.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.00%",
+    "uptimeYear": "97.27%",
     "time": 915,
-    "timeDay": 1134,
-    "timeWeek": 763,
-    "timeMonth": 2235,
-    "timeYear": 969,
+    "timeDay": 566,
+    "timeWeek": 752,
+    "timeMonth": 2214,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2022-08-01": 1381,
       "2022-07-31": 1440,
@@ -24,8 +24,7 @@
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
-      "2022-07-24": 1440,
-      "2022-07-23": 1440
+      "2022-07-24": 1440
     }
   },
   {
@@ -40,10 +39,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 900,
-    "timeDay": 862,
-    "timeWeek": 747,
-    "timeMonth": 1318,
-    "timeYear": 937,
+    "timeDay": 491,
+    "timeWeek": 705,
+    "timeMonth": 1291,
+    "timeYear": 936,
     "dailyMinutesDown": {}
   },
   {
@@ -52,15 +51,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/baked-bean.co.uk.ico",
     "slug": "baked-bean",
     "status": "up",
-    "uptime": "90.61%",
+    "uptime": "90.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.59%",
-    "time": 769,
-    "timeDay": 791,
-    "timeWeek": 695,
-    "timeMonth": 1916,
+    "time": 770,
+    "timeDay": 615,
+    "timeWeek": 691,
+    "timeMonth": 1897,
     "timeYear": 878,
     "dailyMinutesDown": {
       "2023-06-07": 1381,
@@ -124,8 +123,7 @@
       "2022-07-31": 1381,
       "2022-07-30": 1440,
       "2022-07-29": 59,
-      "2022-07-24": 1380,
-      "2022-07-23": 59
+      "2022-07-24": 1380
     }
   },
   {
@@ -138,11 +136,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.72%",
-    "time": 796,
-    "timeDay": 709,
-    "timeWeek": 609,
-    "timeMonth": 1476,
+    "uptimeYear": "97.00%",
+    "time": 795,
+    "timeDay": 466,
+    "timeWeek": 596,
+    "timeMonth": 1457,
     "timeYear": 791,
     "dailyMinutesDown": {
       "2023-06-07": 1381,
@@ -155,8 +153,7 @@
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
-      "2022-07-24": 1440,
-      "2022-07-23": 1440
+      "2022-07-24": 1440
     }
   },
   {
@@ -170,11 +167,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1817,
-    "timeDay": 315,
-    "timeWeek": 469,
-    "timeMonth": 426,
-    "timeYear": 1972,
+    "time": 1816,
+    "timeDay": 428,
+    "timeWeek": 458,
+    "timeMonth": 422,
+    "timeYear": 1970,
     "dailyMinutesDown": {}
   }
 ]
