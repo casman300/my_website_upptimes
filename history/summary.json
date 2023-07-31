@@ -5,19 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/casman.co.uk.ico",
     "slug": "my-homepage",
     "status": "up",
-    "uptime": "91.25%",
+    "uptime": "91.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.46%",
     "time": 915,
-    "timeDay": 715,
-    "timeWeek": 748,
-    "timeMonth": 2117,
-    "timeYear": 972,
+    "timeDay": 610,
+    "timeWeek": 707,
+    "timeMonth": 2069,
+    "timeYear": 971,
     "dailyMinutesDown": {
-      "2022-08-01": 1381,
-      "2022-07-31": 1440
+      "2022-08-01": 1381
     }
   },
   {
@@ -31,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 899,
-    "timeDay": 804,
-    "timeWeek": 807,
-    "timeMonth": 1148,
+    "time": 898,
+    "timeDay": 692,
+    "timeWeek": 768,
+    "timeMonth": 1133,
     "timeYear": 932,
     "dailyMinutesDown": {}
   },
@@ -44,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/baked-bean.co.uk.ico",
     "slug": "baked-bean",
     "status": "up",
-    "uptime": "90.69%",
+    "uptime": "90.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.88%",
-    "time": 773,
-    "timeDay": 561,
-    "timeWeek": 720,
-    "timeMonth": 1752,
-    "timeYear": 881,
+    "uptimeYear": "90.15%",
+    "time": 774,
+    "timeDay": 603,
+    "timeWeek": 694,
+    "timeMonth": 1714,
+    "timeYear": 882,
     "dailyMinutesDown": {
       "2023-06-07": 1381,
       "2023-06-06": 59,
@@ -112,8 +111,7 @@
       "2022-08-04": 1440,
       "2022-08-03": 60,
       "2022-08-02": 1381,
-      "2022-08-01": 59,
-      "2022-07-31": 1381
+      "2022-08-01": 59
     }
   },
   {
@@ -122,21 +120,20 @@
     "icon": "https://6xtask.co.uk/ASSETS/favicon/favicon.ico",
     "slug": "6x-task",
     "status": "up",
-    "uptime": "93.78%",
+    "uptime": "93.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "99.19%",
     "time": 794,
-    "timeDay": 564,
-    "timeWeek": 626,
-    "timeMonth": 1326,
-    "timeYear": 794,
+    "timeDay": 504,
+    "timeWeek": 595,
+    "timeMonth": 1299,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2023-06-07": 1381,
       "2023-06-06": 59,
-      "2022-08-01": 1381,
-      "2022-07-31": 1440
+      "2022-08-01": 1381
     }
   },
   {
@@ -150,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1802,
-    "timeDay": 455,
-    "timeWeek": 487,
-    "timeMonth": 448,
-    "timeYear": 1953,
+    "time": 1800,
+    "timeDay": 447,
+    "timeWeek": 507,
+    "timeMonth": 447,
+    "timeYear": 1950,
     "dailyMinutesDown": {}
   }
 ]
