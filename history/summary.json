@@ -6,17 +6,18 @@
     "slug": "my-homepage",
     "status": "down",
     "uptime": "92.75%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 998,
     "timeDay": 2248,
     "timeWeek": 2935,
     "timeMonth": 1941,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2024-02-06": 0
+      "2024-02-07": 3,
+      "2024-02-06": 60
     }
   },
   {
