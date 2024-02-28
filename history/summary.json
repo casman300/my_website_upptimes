@@ -6,15 +6,15 @@
     "slug": "my-homepage",
     "status": "up",
     "uptime": "92.27%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "4.37%",
     "uptimeWeek": "14.29%",
     "uptimeMonth": "76.99%",
     "uptimeYear": "98.08%",
     "time": 1012,
     "timeDay": 706,
     "timeWeek": 578,
-    "timeMonth": 1766,
-    "timeYear": 1073,
+    "timeMonth": 1761,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2024-02-27": 1380,
       "2024-02-26": 1440,
@@ -34,15 +34,15 @@
     "slug": "scouts-main-site",
     "status": "up",
     "uptime": "96.38%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "4.37%",
     "uptimeWeek": "14.29%",
     "uptimeMonth": "80.28%",
     "uptimeYear": "98.36%",
     "time": 1004,
     "timeDay": 644,
     "timeWeek": 675,
-    "timeMonth": 1670,
-    "timeYear": 1058,
+    "timeMonth": 1660,
+    "timeYear": 1059,
     "dailyMinutesDown": {
       "2024-02-27": 1380,
       "2024-02-26": 1440,
@@ -67,8 +67,8 @@
     "time": 940,
     "timeDay": 582,
     "timeWeek": 743,
-    "timeMonth": 1637,
-    "timeYear": 1028,
+    "timeMonth": 1623,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2023-06-07": 1381,
       "2023-06-06": 59
@@ -88,7 +88,7 @@
     "time": 875,
     "timeDay": 567,
     "timeWeek": 835,
-    "timeMonth": 1493,
+    "timeMonth": 1489,
     "timeYear": 919,
     "dailyMinutesDown": {
       "2023-06-07": 1381,
@@ -109,8 +109,8 @@
     "time": 2448,
     "timeDay": 4572,
     "timeWeek": 4022,
-    "timeMonth": 4313,
-    "timeYear": 2698,
+    "timeMonth": 4329,
+    "timeYear": 2695,
     "dailyMinutesDown": {}
   }
 ]
