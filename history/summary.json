@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/casman.co.uk.ico",
     "slug": "my-homepage",
     "status": "up",
-    "uptime": "92.88%",
+    "uptime": "92.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.08%",
-    "time": 1019,
-    "timeDay": 614,
-    "timeWeek": 1040,
-    "timeMonth": 1042,
-    "timeYear": 1108,
+    "time": 1020,
+    "timeDay": 961,
+    "timeWeek": 1086,
+    "timeMonth": 868,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2024-02-27": 1380,
       "2024-02-26": 1440,
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
-    "time": 1064,
-    "timeDay": 936,
-    "timeWeek": 1495,
-    "timeMonth": 1579,
-    "timeYear": 1126,
+    "time": 1065,
+    "timeDay": 1197,
+    "timeWeek": 1467,
+    "timeMonth": 1594,
+    "timeYear": 1127,
     "dailyMinutesDown": {
       "2024-02-27": 1380,
       "2024-02-26": 1440,
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/baked-bean.co.uk.ico",
     "slug": "baked-bean",
     "status": "up",
-    "uptime": "93.02%",
+    "uptime": "93.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 1028,
-    "timeDay": 598,
-    "timeWeek": 794,
-    "timeMonth": 1519,
+    "timeDay": 757,
+    "timeWeek": 773,
+    "timeMonth": 1316,
     "timeYear": 1121,
-    "dailyMinutesDown": {
-      "2023-06-07": 1381
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "6xTask",
@@ -84,14 +82,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 966,
-    "timeDay": 651,
-    "timeWeek": 973,
-    "timeMonth": 2017,
-    "timeYear": 1064,
-    "dailyMinutesDown": {
-      "2023-06-07": 1381
-    }
+    "time": 967,
+    "timeDay": 1091,
+    "timeWeek": 1029,
+    "timeMonth": 2033,
+    "timeYear": 1065,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Workshop Mayhem",
@@ -104,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2913,
-    "timeDay": 4473,
-    "timeWeek": 3914,
-    "timeMonth": 3839,
-    "timeYear": 2856,
+    "time": 2928,
+    "timeDay": 9226,
+    "timeWeek": 4596,
+    "timeMonth": 4042,
+    "timeYear": 2871,
     "dailyMinutesDown": {}
   }
 ]
