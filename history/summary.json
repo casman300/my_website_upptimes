@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/casman.co.uk.ico",
     "slug": "my-homepage",
     "status": "up",
-    "uptime": "93.71%",
+    "uptime": "93.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.71%",
     "time": 992,
-    "timeDay": 1255,
-    "timeWeek": 1119,
-    "timeMonth": 1016,
+    "timeDay": 765,
+    "timeWeek": 1047,
+    "timeMonth": 999,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2024-11-19": 1380,
@@ -32,8 +32,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -47,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.71%",
-    "time": 1138,
-    "timeDay": 1150,
-    "timeWeek": 1249,
-    "timeMonth": 1167,
+    "time": 1139,
+    "timeDay": 1212,
+    "timeWeek": 1256,
+    "timeMonth": 1158,
     "timeYear": 1106,
     "dailyMinutesDown": {
       "2024-11-19": 1381,
@@ -69,8 +68,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
-    "time": 966,
-    "timeDay": 1064,
-    "timeWeek": 1098,
-    "timeMonth": 1082,
-    "timeYear": 917,
+    "time": 979,
+    "timeDay": 7255,
+    "timeWeek": 1959,
+    "timeMonth": 1285,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2024-11-19": 1381,
       "2024-11-18": 59,
@@ -110,15 +108,15 @@
     "icon": "https://6xtask.co.uk/ASSETS/favicon/favicon.ico",
     "slug": "6x-task",
     "status": "up",
-    "uptime": "95.74%",
+    "uptime": "95.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
     "time": 1047,
-    "timeDay": 1147,
-    "timeWeek": 994,
-    "timeMonth": 863,
+    "timeDay": 771,
+    "timeWeek": 960,
+    "timeMonth": 858,
     "timeYear": 1030,
     "dailyMinutesDown": {
       "2024-11-19": 1381,
@@ -146,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5026,
-    "timeDay": 5587,
-    "timeWeek": 3748,
-    "timeMonth": 5374,
-    "timeYear": 5340,
+    "time": 5037,
+    "timeDay": 5777,
+    "timeWeek": 4089,
+    "timeMonth": 5185,
+    "timeYear": 5346,
     "dailyMinutesDown": {}
   }
 ]
