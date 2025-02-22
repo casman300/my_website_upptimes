@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.71%",
+    "uptimeYear": "96.72%",
     "time": 992,
-    "timeDay": 765,
-    "timeWeek": 1047,
-    "timeMonth": 999,
+    "timeDay": 845,
+    "timeWeek": 966,
+    "timeMonth": 1002,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2024-11-19": 1380,
@@ -31,8 +31,7 @@
       "2024-02-27": 1380,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
-      "2024-02-24": 1440,
-      "2024-02-23": 1440
+      "2024-02-24": 1440
     }
   },
   {
@@ -45,11 +44,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.71%",
-    "time": 1139,
-    "timeDay": 1212,
-    "timeWeek": 1256,
-    "timeMonth": 1158,
+    "uptimeYear": "96.72%",
+    "time": 1138,
+    "timeDay": 804,
+    "timeWeek": 1184,
+    "timeMonth": 1164,
     "timeYear": 1106,
     "dailyMinutesDown": {
       "2024-11-19": 1381,
@@ -67,8 +66,7 @@
       "2024-02-27": 1380,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
-      "2024-02-24": 1440,
-      "2024-02-23": 1440
+      "2024-02-24": 1440
     }
   },
   {
@@ -77,15 +75,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/baked-bean.co.uk.ico",
     "slug": "baked-bean",
     "status": "up",
-    "uptime": "93.84%",
+    "uptime": "93.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
-    "time": 979,
-    "timeDay": 7255,
-    "timeWeek": 1959,
-    "timeMonth": 1285,
+    "time": 978,
+    "timeDay": 660,
+    "timeWeek": 1922,
+    "timeMonth": 1286,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2024-11-19": 1381,
@@ -113,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
-    "time": 1047,
-    "timeDay": 771,
-    "timeWeek": 960,
-    "timeMonth": 858,
-    "timeYear": 1030,
+    "time": 1048,
+    "timeDay": 1050,
+    "timeWeek": 976,
+    "timeMonth": 863,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2024-11-19": 1381,
       "2024-11-18": 59,
@@ -144,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5037,
-    "timeDay": 5777,
-    "timeWeek": 4089,
-    "timeMonth": 5185,
-    "timeYear": 5346,
+    "time": 5044,
+    "timeDay": 4450,
+    "timeWeek": 4386,
+    "timeMonth": 5147,
+    "timeYear": 5348,
     "dailyMinutesDown": {}
   }
 ]
