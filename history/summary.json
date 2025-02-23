@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/casman.co.uk.ico",
     "slug": "my-homepage",
     "status": "up",
-    "uptime": "93.72%",
+    "uptime": "93.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.72%",
-    "time": 992,
-    "timeDay": 845,
-    "timeWeek": 966,
-    "timeMonth": 1002,
-    "timeYear": 918,
+    "uptimeYear": "97.00%",
+    "time": 993,
+    "timeDay": 936,
+    "timeWeek": 956,
+    "timeMonth": 1005,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2024-11-19": 1380,
       "2024-11-18": 60,
@@ -30,8 +30,7 @@
       "2024-07-15": 60,
       "2024-02-27": 1380,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   },
   {
@@ -44,12 +43,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.72%",
+    "uptimeYear": "97.00%",
     "time": 1138,
-    "timeDay": 804,
-    "timeWeek": 1184,
-    "timeMonth": 1164,
-    "timeYear": 1106,
+    "timeDay": 773,
+    "timeWeek": 1072,
+    "timeMonth": 1165,
+    "timeYear": 1107,
     "dailyMinutesDown": {
       "2024-11-19": 1381,
       "2024-11-18": 59,
@@ -65,8 +64,7 @@
       "2024-07-15": 60,
       "2024-02-27": 1380,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   },
   {
@@ -80,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
-    "time": 978,
-    "timeDay": 660,
-    "timeWeek": 1922,
-    "timeMonth": 1286,
-    "timeYear": 935,
+    "time": 989,
+    "timeDay": 6115,
+    "timeWeek": 2684,
+    "timeMonth": 1453,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2024-11-19": 1381,
       "2024-11-18": 59,
@@ -111,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
-    "time": 1048,
-    "timeDay": 1050,
-    "timeWeek": 976,
-    "timeMonth": 863,
-    "timeYear": 1029,
+    "time": 1049,
+    "timeDay": 1336,
+    "timeWeek": 1002,
+    "timeMonth": 879,
+    "timeYear": 1031,
     "dailyMinutesDown": {
       "2024-11-19": 1381,
       "2024-11-18": 59,
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5044,
-    "timeDay": 4450,
-    "timeWeek": 4386,
-    "timeMonth": 5147,
-    "timeYear": 5348,
+    "time": 5053,
+    "timeDay": 4796,
+    "timeWeek": 4524,
+    "timeMonth": 5141,
+    "timeYear": 5347,
     "dailyMinutesDown": {}
   }
 ]
