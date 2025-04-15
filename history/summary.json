@@ -6,7 +6,7 @@
     "slug": "my-homepage",
     "status": "up",
     "uptime": "93.74%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "4.48%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "97.53%",
@@ -14,7 +14,7 @@
     "timeDay": 1576,
     "timeWeek": 885,
     "timeMonth": 902,
-    "timeYear": 936,
+    "timeYear": 937,
     "dailyMinutesDown": {
       "2025-04-14": 1380,
       "2025-04-13": 60,
@@ -43,7 +43,7 @@
     "slug": "scouts-main-site",
     "status": "up",
     "uptime": "96.76%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "4.48%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "97.53%",
@@ -51,7 +51,7 @@
     "timeDay": 1605,
     "timeWeek": 3582,
     "timeMonth": 1848,
-    "timeYear": 1259,
+    "timeYear": 1261,
     "dailyMinutesDown": {
       "2025-04-14": 1380,
       "2025-04-13": 60,
@@ -80,7 +80,7 @@
     "slug": "baked-bean",
     "status": "up",
     "uptime": "93.86%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "4.48%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "97.53%",
@@ -88,7 +88,7 @@
     "timeDay": 803,
     "timeWeek": 700,
     "timeMonth": 768,
-    "timeYear": 957,
+    "timeYear": 958,
     "dailyMinutesDown": {
       "2025-04-14": 1380,
       "2025-04-13": 59,
@@ -117,7 +117,7 @@
     "slug": "6x-task",
     "status": "up",
     "uptime": "95.70%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "4.48%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "97.53%",
@@ -125,7 +125,7 @@
     "timeDay": 1311,
     "timeWeek": 797,
     "timeMonth": 795,
-    "timeYear": 1031,
+    "timeYear": 1033,
     "dailyMinutesDown": {
       "2025-04-14": 1381,
       "2025-04-13": 59,
@@ -162,7 +162,7 @@
     "timeDay": 5254,
     "timeWeek": 7484,
     "timeMonth": 7250,
-    "timeYear": 5738,
+    "timeYear": 5741,
     "dailyMinutesDown": {}
   }
 ]
