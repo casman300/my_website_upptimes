@@ -11,10 +11,10 @@
     "uptimeMonth": "96.71%",
     "uptimeYear": "98.08%",
     "time": 1153,
-    "timeDay": 579,
-    "timeWeek": 802,
-    "timeMonth": 1098,
-    "timeYear": 1223,
+    "timeDay": 947,
+    "timeWeek": 789,
+    "timeMonth": 1095,
+    "timeYear": 1224,
     "dailyMinutesDown": {
       "2025-09-19": 1380,
       "2025-09-18": 60,
@@ -28,8 +28,7 @@
       "2024-11-18": 60,
       "2024-10-21": 1381,
       "2024-10-20": 60,
-      "2024-10-16": 1380,
-      "2024-10-15": 59
+      "2024-10-16": 1380
     }
   },
   {
@@ -43,10 +42,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.49%",
-    "time": 1155,
-    "timeDay": 769,
-    "timeWeek": 872,
-    "timeMonth": 852,
+    "time": 1154,
+    "timeDay": 858,
+    "timeWeek": 877,
+    "timeMonth": 854,
     "timeYear": 1142,
     "dailyMinutesDown": {
       "2025-09-09": 1380,
@@ -99,8 +98,7 @@
       "2024-11-18": 59,
       "2024-10-21": 1381,
       "2024-10-20": 59,
-      "2024-10-16": 1381,
-      "2024-10-15": 59
+      "2024-10-16": 1381
     }
   },
   {
@@ -109,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/baked-bean.co.uk.ico",
     "slug": "baked-bean",
     "status": "down",
-    "uptime": "92.89%",
+    "uptime": "92.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.81%",
-    "uptimeYear": "90.67%",
+    "uptimeMonth": "4.52%",
+    "uptimeYear": "90.40%",
     "time": 1026,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1419,
-    "timeYear": 1096,
+    "timeMonth": 0,
+    "timeYear": 1097,
     "dailyMinutesDown": {
-      "2025-10-14": 5,
+      "2025-10-15": 5,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -160,8 +159,7 @@
       "2024-11-18": 59,
       "2024-10-21": 1381,
       "2024-10-20": 59,
-      "2024-10-16": 1381,
-      "2024-10-15": 59
+      "2024-10-16": 1381
     }
   },
   {
@@ -175,11 +173,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.53%",
-    "time": 1598,
-    "timeDay": 1518,
-    "timeWeek": 2001,
-    "timeMonth": 2371,
-    "timeYear": 1776,
+    "time": 1599,
+    "timeDay": 1535,
+    "timeWeek": 2111,
+    "timeMonth": 2375,
+    "timeYear": 1778,
     "dailyMinutesDown": {
       "2025-09-09": 1381,
       "2025-09-08": 60,
@@ -197,8 +195,7 @@
       "2024-11-18": 59,
       "2024-10-21": 1381,
       "2024-10-20": 59,
-      "2024-10-16": 1381,
-      "2024-10-15": 59
+      "2024-10-16": 1381
     }
   },
   {
@@ -212,11 +209,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5727,
-    "timeDay": 7117,
-    "timeWeek": 4854,
-    "timeMonth": 6195,
-    "timeYear": 5811,
+    "time": 5726,
+    "timeDay": 4464,
+    "timeWeek": 4934,
+    "timeMonth": 6063,
+    "timeYear": 5810,
     "dailyMinutesDown": {}
   }
 ]
