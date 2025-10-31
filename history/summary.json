@@ -13,7 +13,7 @@
     "time": 1152,
     "timeDay": 838,
     "timeWeek": 833,
-    "timeMonth": 905,
+    "timeMonth": 904,
     "timeYear": 1226,
     "dailyMinutesDown": {
       "2025-09-19": 1380,
@@ -42,7 +42,7 @@
     "time": 1125,
     "timeDay": 3119,
     "timeWeek": 1110,
-    "timeMonth": 909,
+    "timeMonth": 908,
     "timeYear": 1147,
     "dailyMinutesDown": {
       "2025-09-09": 1380,
@@ -102,9 +102,9 @@
     "slug": "baked-bean",
     "status": "up",
     "uptime": "91.99%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeDay": "4.48%",
+    "uptimeWeek": "0.64%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "86.58%",
     "time": 1024,
     "timeDay": 687,
@@ -182,7 +182,7 @@
     "time": 1626,
     "timeDay": 1410,
     "timeWeek": 1685,
-    "timeMonth": 1802,
+    "timeMonth": 1848,
     "timeYear": 1822,
     "dailyMinutesDown": {
       "2025-09-09": 1381,
@@ -215,7 +215,7 @@
     "time": 5766,
     "timeDay": 3849,
     "timeWeek": 3903,
-    "timeMonth": 5471,
+    "timeMonth": 5502,
     "timeYear": 5713,
     "dailyMinutesDown": {}
   }
