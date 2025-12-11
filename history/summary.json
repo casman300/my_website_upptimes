@@ -188,14 +188,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "87.95%",
+    "uptimeYear": "87.93%",
     "time": 1677,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1951,
     "dailyMinutesDown": {
-      "2025-12-10": 1381,
+      "2025-12-11": 5,
+      "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -255,17 +256,18 @@
     "slug": "workshop-mayhem",
     "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
     "time": 5914,
     "timeDay": 0,
     "timeWeek": 10748,
     "timeMonth": 6855,
     "timeYear": 5732,
     "dailyMinutesDown": {
-      "2025-12-10": 0
+      "2025-12-11": 5,
+      "2025-12-10": 59
     }
   }
 ]
