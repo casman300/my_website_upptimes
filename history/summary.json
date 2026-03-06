@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.81%",
-    "time": 1139,
-    "timeDay": 788,
-    "timeWeek": 890,
-    "timeMonth": 797,
+    "uptimeYear": "97.82%",
+    "time": 1138,
+    "timeDay": 651,
+    "timeWeek": 823,
+    "timeMonth": 798,
     "timeYear": 1223,
     "dailyMinutesDown": {
       "2026-01-31": 1381,
@@ -29,8 +29,7 @@
       "2025-09-19": 1380,
       "2025-09-18": 60,
       "2025-04-14": 1380,
-      "2025-04-13": 60,
-      "2025-03-06": 1380
+      "2025-04-13": 60
     }
   },
   {
@@ -43,12 +42,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.22%",
-    "time": 1129,
-    "timeDay": 1432,
-    "timeWeek": 1065,
-    "timeMonth": 1081,
-    "timeYear": 1115,
+    "uptimeYear": "88.23%",
+    "time": 1128,
+    "timeDay": 918,
+    "timeWeek": 1055,
+    "timeMonth": 1069,
+    "timeYear": 1116,
     "dailyMinutesDown": {
       "2026-01-31": 1381,
       "2026-01-30": 57,
@@ -101,8 +100,7 @@
       "2025-06-19": 1440,
       "2025-06-18": 60,
       "2025-04-14": 1380,
-      "2025-04-13": 60,
-      "2025-03-06": 1380
+      "2025-04-13": 60
     }
   },
   {
@@ -111,18 +109,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/baked-bean.co.uk.ico",
     "slug": "baked-bean",
     "status": "down",
-    "uptime": "88.70%",
+    "uptime": "88.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "67.38%",
-    "time": 1070,
+    "uptimeYear": "67.12%",
+    "time": 1071,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1121,
+    "timeYear": 1123,
     "dailyMinutesDown": {
-      "2026-03-05": 8,
+      "2026-03-06": 13,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -247,8 +246,7 @@
       "2025-09-16": 1440,
       "2025-09-15": 60,
       "2025-04-14": 1380,
-      "2025-04-13": 59,
-      "2025-03-06": 1380
+      "2025-04-13": 59
     }
   },
   {
@@ -257,18 +255,19 @@
     "icon": "https://6xtask.co.uk/ASSETS/favicon/favicon.ico",
     "slug": "6x-task",
     "status": "down",
-    "uptime": "89.79%",
+    "uptime": "89.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "65.19%",
-    "time": 1793,
+    "uptimeYear": "64.93%",
+    "time": 1794,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2339,
+    "timeYear": 2347,
     "dailyMinutesDown": {
-      "2026-03-05": 8,
+      "2026-03-06": 13,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -399,8 +398,7 @@
       "2025-08-10": 1380,
       "2025-08-09": 60,
       "2025-04-14": 1381,
-      "2025-04-13": 59,
-      "2025-03-06": 1381
+      "2025-04-13": 59
     }
   },
   {
@@ -409,16 +407,16 @@
     "icon": "https://www.workshopmayhem.co.uk/wp-content/uploads/2019/09/cropped-WM-Logo-180x180.png",
     "slug": "workshop-mayhem",
     "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "4.43%",
-    "uptimeWeek": "0.63%",
+    "uptime": "98.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "14.97%",
     "uptimeMonth": "73.70%",
     "uptimeYear": "97.26%",
-    "time": 5192,
-    "timeDay": 1709,
-    "timeWeek": 1709,
-    "timeMonth": 1270,
-    "timeYear": 4794,
+    "time": 5142,
+    "timeDay": 1837,
+    "timeWeek": 1773,
+    "timeMonth": 1297,
+    "timeYear": 4787,
     "dailyMinutesDown": {
       "2026-03-04": 1384,
       "2026-03-03": 1440,
