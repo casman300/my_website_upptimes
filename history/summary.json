@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/casman.co.uk.ico",
     "slug": "my-homepage",
     "status": "down",
-    "uptime": "94.52%",
-    "uptimeDay": "99.92%",
+    "uptime": "94.51%",
+    "uptimeDay": "94.78%",
     "uptimeWeek": "85.70%",
-    "uptimeMonth": "93.41%",
-    "uptimeYear": "95.62%",
+    "uptimeMonth": "93.24%",
+    "uptimeYear": "95.60%",
     "time": 1086,
     "timeDay": 324,
     "timeWeek": 710,
@@ -48,7 +48,7 @@
       "2026-08-21": 50,
       "2026-09-03": 46,
       "2026-09-02": 1404,
-      "2026-09-09": 1
+      "2026-09-09": 75
     }
   },
   {
@@ -58,9 +58,9 @@
     "slug": "scouts-main-site",
     "status": "down",
     "uptime": "95.10%",
-    "uptimeDay": "99.93%",
+    "uptimeDay": "94.79%",
     "uptimeWeek": "85.70%",
-    "uptimeMonth": "93.41%",
+    "uptimeMonth": "93.24%",
     "uptimeYear": "95.64%",
     "time": 973,
     "timeDay": 301,
@@ -98,7 +98,7 @@
       "2026-08-21": 49,
       "2026-09-03": 46,
       "2026-09-02": 1404,
-      "2026-09-09": 1
+      "2026-09-09": 75
     }
   },
   {
@@ -111,7 +111,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.42%",
+    "uptimeYear": "16.40%",
     "time": 1214,
     "timeDay": 0,
     "timeWeek": 0,
@@ -172,7 +172,7 @@
       "2025-11-18": 60,
       "2025-11-26": 1380,
       "2025-11-25": 60,
-      "2026-09-09": 46,
+      "2026-09-09": 120,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -438,7 +438,7 @@
     "icon": "https://6xtask.co.uk/ASSETS/favicon/favicon.ico",
     "slug": "6x-task",
     "status": "down",
-    "uptime": "81.63%",
+    "uptime": "81.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -449,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 2489,
     "dailyMinutesDown": {
-      "2026-09-09": 46,
+      "2026-09-09": 120,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
